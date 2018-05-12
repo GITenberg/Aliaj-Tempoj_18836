@@ -1,0 +1,40 @@
+_repo: Aliaj-Tempoj_18836
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Grobe, Edwin
+    birthdate: 1927
+    gutenberg_agent_id: '7369'
+    url: http://www.gutenberg.org/2009/agents/7369
+    wikipedia: http://eo.wikipedia.org/wiki/Edwin_GROBE
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18836'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+title: Aliaj Tempoj
+url: http://www.gutenberg.org/ebooks/18836
