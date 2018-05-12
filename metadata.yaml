@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edith_Wharton
     - http://en.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18836#Aliaj-Tempoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-07-16'
 gutenberg_type: Text
